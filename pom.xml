@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.plainprog</groupId>
-	<artifactId>.duobk_registration_service</artifactId>
+	<artifactId>duobk_registration_service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>.duobk_registration_service</name>
+	<name>duobk_registration_service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
